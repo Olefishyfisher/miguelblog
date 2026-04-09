@@ -4,6 +4,7 @@
 window.POST_MANIFEST = [
   'fear-and-loathing-western-mass',
   'example',
+  'what-am-i-doing',
   // 'my-second-post',
   // 'another-post',
 ];
