@@ -1,6 +1,6 @@
 registerPost({
   slug: "fear-and-loathing-western-mass",
-  title: "Fear and Loathing in Western Massachusetts \u2014\u2014 Also Known As Hideous Music and the Sound of \u2018Deport Bike Man\u2019",
+  title: "Fear and Loathing in Western Massachusetts \u2014\u2014 Also Known As A Date With My Girlfriend",
   subtitle: "This is my first post, so it probably won't be any good. I just hate Western Massachusetts.",
   doc: "DOC_45456",
   source: "The Biggle Swine Book \u00b7 Random Book Store in Northampton, Western Massachusetts",
