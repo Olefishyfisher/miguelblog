@@ -3,6 +3,7 @@
 // The site loads them top-to-bottom, so newest first = newest at top of index.
 window.POST_MANIFEST = [
   'fear-and-loathing-western-mass',
+  'example',
   // 'my-second-post',
   // 'another-post',
 ];
