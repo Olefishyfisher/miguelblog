@@ -2,6 +2,7 @@
 // Add the slug (filename without .js) of each post here, in order.
 // The site loads them top-to-bottom, so newest first = newest at top of index.
 window.POST_MANIFEST = [
+  'my-awesome-girlfriend',
   'this-is-the-third-test-for-the-site',
   'this-is-the-fourth-test-for-the-site',
   'this-is-the-fifth-test-for-the-site',
