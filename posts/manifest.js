@@ -4,6 +4,7 @@
 window.POST_MANIFEST = [
   'this-is-the-third-test-for-the-site',
   'this-is-the-fourth-test-for-the-site',
+  'this-is-the-fifth-test-for-the-site',
   // 'my-second-post',
   // 'another-post',
 ];
