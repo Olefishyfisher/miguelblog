@@ -3,6 +3,7 @@
 // The site loads them top-to-bottom, so newest first = newest at top of index.
 window.POST_MANIFEST = [
   'this-is-the-third-test-for-the-site',
+  'this-is-the-fourth-test-for-the-site',
   // 'my-second-post',
   // 'another-post',
 ];
